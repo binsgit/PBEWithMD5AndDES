@@ -1,0 +1,11 @@
+PBEWithMD5AndDES.c
+PBEWithMD5AndDES.h
+        Implementation of PBEWithMD5AndDES
+
+example.c
+        Encode and then decode, print to console
+
+encrypt.c
+decrypt.c
+        Compatible examples for jasypt Java package (bin/encrypt, bin/decrypt)
+
